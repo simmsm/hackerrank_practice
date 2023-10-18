@@ -1,2 +1,2 @@
 # hackerrank_practice
-Practice repository to keep up to date on coding
+Repository to practice coding. All challenges completed in Python are in the Python folder
